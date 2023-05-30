@@ -20,12 +20,10 @@ Si, te he escuchado
 Pues si, la verdad es que si
 <<<<<<< Updated upstream
 >>>>>>> Stashed changes
-<<<<<<< HEAD
-=======
+
 >>>>>>> Stashed changes
 
 Pues si, la verdad es que si
-=======
 
 ¿Me has escuchado?
 >>>>>>> b5da5bbc1e053d18b88043cbcd5967793cc5cde7
