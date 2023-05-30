@@ -3,6 +3,16 @@ Que mola mucho
 
 
 
+<<<<<<< Updated upstream
 ¿Me has escuchado?
 
 Si, te he escuchado
+=======
+
+
+
+
+
+
+Pues si, la verdad es que si
+>>>>>>> Stashed changes
