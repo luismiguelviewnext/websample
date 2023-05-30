@@ -25,29 +25,6 @@ public class Leer {
 	Path p1 = Paths.get("c:\\temp\\ejemplo");
 		
 		
-//System.out.format("%s%n", p1.toUri());
-	
-//	try {
-//		Path p2 = p1.toRealPath();
-		//System.out.println("RealPath: "+p2);
-		
-		//System.out.println("Valor del Path p2 : " + p2);
-		
-//		Files.delete(p2);
-//		System.out.println("ruta borrada");
-//		
-//	}catch (NoSuchFileException x) {
-//		System.out.println("error");
-////		if(p2.startsWith(Paths.get("temp"))|| p2.endsWith(Paths.get("añadida"))) {
-//			System.out.println("encontrarse la ruta");
-//		}
-//		}catch (NoSuchFileException x) {
-//			System.err.format("%s: no encontrado" + "fichero o directorio", p1);
-//		}catch (IOException x) {
-//			System.err.format("%s%n", x);
-//		}
-	
-		//System.out.println(p1.resolve("añadida"));
 	
 	System.out.println("Propiedades de un Fichero");
 	
