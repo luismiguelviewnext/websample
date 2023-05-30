@@ -4,10 +4,13 @@ Que mola mucho
 
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 ¿Me has escuchado?
 
 Si, te he escuchado
 =======
+=======
+>>>>>>> Stashed changes
 
 
 
@@ -15,4 +18,9 @@ Si, te he escuchado
 
 
 Pues si, la verdad es que si
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
+
+Pues si, la verdad es que si
