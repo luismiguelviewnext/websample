@@ -25,7 +25,7 @@ public class Leer {
 	Path p1 = Paths.get("c:\\temp\\ejemplo");
 		
 		
-	
+	//Hola Paco
 	System.out.println("Propiedades de un Fichero");
 	
 	Path p3 = Paths.get("c:\\temp\\ejemplo\\fichero.txt");
